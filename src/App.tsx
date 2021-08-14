@@ -24,8 +24,9 @@ function App() {
 
       <Showcase>
         <h1>
-          اینجا جاییه که ما با <span>یاد گرفتن</span> و <span>یاد دادن </span>
-          پروژه هامونو انجام میدیم
+          In this place we try to done our tasks with <span>learning</span> and
+          <span>teaching</span>
+          eachother
         </h1>
         <AISvg />
       </Showcase>
@@ -101,12 +102,11 @@ function App() {
           </h2>
 
           <ul>
-            <li>توجه به جزئیات</li>
-            <li>جلسات یک‌به‌یک</li>
-            <li>شیرینی دادن داوطلبانه</li>
-            <li>کمک به همدیگه برای پیشرفت</li>
-            <li>اهمیت دادن به وقت دیگران</li>
-            <li>تجربه کسب کردن</li>
+            <li>pay attention to details</li>
+            <li>group meetings</li>
+            <li>Help eachother to grow up</li>
+            <li>Respect eachother</li>
+            <li>Gain experience</li>
           </ul>
         </div>
 
@@ -115,11 +115,10 @@ function App() {
             What we <span>don't</span>
           </h2>
           <ul>
-            <li>سرسری انجام دادن کار</li>
-            <li>ندیدن تلاش‌های هم‌تیمی‌ها</li>
-            <li>غر زدن سر همدیگه</li>
-            <li>رقابت ناسالم داشتن</li>
-            <li>ندیدن تلاش‌های هم‌تیمی‌ها</li>
+            <li>Ignore tasks</li>
+            <li>Ignore teammates hard work</li>
+            <li>Mumbling</li>
+            <li>Unfair competition</li>
           </ul>
         </div>
       </FunnyContainer>
