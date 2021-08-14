@@ -8,7 +8,6 @@ import moein from "./photos/moein.jpeg";
 import moein1 from "./photos/moein1.jpeg";
 import ali from "./photos/ali.jpeg";
 import sania from "./photos/sania.jpeg";
-
 import styled from "styled-components";
 import { ReactComponent as Blob } from "./blob.svg";
 import { ReactComponent as AISvg } from "./svgfile.svg";
@@ -45,16 +44,15 @@ function App() {
       </HeroSectionWrapper>
 
       <ReportWrapper>
-        <h2>Language detection project's history</h2>
+        <h2>We are currently working on...</h2>
         <p>
-          F At first we arranged a meeting on google meet. We discussed about
-          the project, exchanged our ideas on how to develop the program and
-          reached a conclusion Then we started writing the code and added some
-          libraries (the libraries duties were to get the general text and
-          return the language) At the end we created a one pager on the web.
+          what is language Detection? In natural language processing, language
+          identification or language guessing is the problem of determining
+          which natural language given content is in this week we tried to find
+          the best and the most optimized method and library in python, which
+          has the best accuracy and speed.
         </p>
 
-        <h2>We are currently working on...</h2>
         {/* <p></p> */}
       </ReportWrapper>
       <h2 className="red">Hands behind the scenes</h2>
