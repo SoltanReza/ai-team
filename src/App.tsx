@@ -18,14 +18,14 @@ function App() {
     <AppContainer className="App">
       <Header>
         <h1>
-          <span>AI</span>-Team
+          <span>New Folder</span>-Team
         </h1>
       </Header>
 
       <Showcase>
         <h1>
           In this place we try to done our tasks with <span>learning</span> and
-          <span>teaching</span>
+          <span> teaching </span>
           eachother
         </h1>
         <AISvg />
@@ -94,7 +94,7 @@ function App() {
         {/* <Blob className="blob" /> */}
 
         <h2 className="title">
-          In <span>AI</span>-Team
+          In <span>New Folder</span>-Team
         </h2>
         <div className="col col1">
           <h2>
